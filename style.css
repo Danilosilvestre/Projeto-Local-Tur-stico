@@ -6,13 +6,13 @@
 :root{
   font-family: "Open Sans", sans-serif;
   }
-
+  
 #page{
   box-sizing: border-box;
   width: 1120px;
   margin: 88px auto 87px;
-  
  }
+
 h1{
   font-weight: bold;
   font-size: 36px;
@@ -30,27 +30,28 @@ h3{
   font-size: 28px;
   margin-top: 20px;
   padding-left:10px ;
-  }
+ }
 
 h4{
     font-weight: bold;
     color:#E1624F;
     margin-bottom: 8px;
     margin-top: 64px;
-    }
+ }
 
 h5{
   font-size: 16px;
   color: #333333;
  }
 
-h6{
-  font-size: 16px;
+ #h{
+  font-size:16px;
   font-style: italic;
   color: #333333;
   margin-top: 24px;
-  padding-left:24px ;
-  }
+  text-align: center;
+  padding-right:40px;
+ }
 
 hr{
   margin: 40px 0 40px;
@@ -61,25 +62,30 @@ hr{
 p{
   margin: 4px 0 64px;
   color:#333333 ;
-  }
+ }
 
 ul{
   padding-left:24px ;
   margin-bottom: 48px;
   color: #0C51A7;
-  }
+ }
 
 #Casais{
   color: #591B98;
-  }
+ }
 #Famílias{
   color:#E5245E ;
-  }
+ }
 #Orçamento{
   color:#E95E10 ;
-  }
+ }
+
+#text{
+  text-align: center;
+ }
  
 footer{
   text-align: center;
   padding-bottom: 48px;
-  }
+  color:#333333 ;
+ }
