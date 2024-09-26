@@ -5,47 +5,81 @@
 
 :root{
   font-family: "Open Sans", sans-serif;
-  
-}
+  }
 
 #page{
   box-sizing: border-box;
   width: 1120px;
   margin: 88px auto 87px;
   
-}
-
-
-h4{
- font-weight: bold;
- color:#E1624F;
- margin-bottom: 8px;
- margin-top: 64px;
- 
  }
-
- h1{
+h1{
   font-weight: bold;
   font-size: 36px;
   color: #1B1B1B;
   margin-bottom: 40px;
  }
 
- h6{
+h2{
+  font-size: 32px;
+  color: #1B1B1B;
+  margin-bottom:8px ;
+ }
+
+h3{
+  font-size: 28px;
+  margin-top: 20px;
+  padding-left:10px ;
+  }
+
+h4{
+    font-weight: bold;
+    color:#E1624F;
+    margin-bottom: 8px;
+    margin-top: 64px;
+    }
+
+h5{
+  font-size: 16px;
+  color: #333333;
+ }
+
+h6{
   font-size: 16px;
   font-style: italic;
   color: #333333;
   margin-top: 24px;
-}
+  padding-left:24px ;
+  }
 
- hr{
-  margin-top: 40px;
-  color: #D9D9D9;
+hr{
+  margin: 40px 0 40px;
+  background-color: #D9D9D9;
   width: 1120px;
  }
 
- h2{
-  font-size: 32px;
-  color: #1B1B1B;
- }
+p{
+  margin: 4px 0 64px;
+  color:#333333 ;
+  }
+
+ul{
+  padding-left:24px ;
+  margin-bottom: 48px;
+  color: #0C51A7;
+  }
+
+#Casais{
+  color: #591B98;
+  }
+#Famílias{
+  color:#E5245E ;
+  }
+#Orçamento{
+  color:#E95E10 ;
+  }
  
+footer{
+  text-align: center;
+  padding-bottom: 48px;
+  }
